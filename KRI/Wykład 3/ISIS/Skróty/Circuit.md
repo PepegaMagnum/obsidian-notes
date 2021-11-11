@@ -1,0 +1,1 @@
+Nazwa połączenia w protokole ISIS.

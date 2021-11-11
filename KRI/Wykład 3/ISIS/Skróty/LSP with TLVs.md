@@ -1,0 +1,1 @@
+Link-State Packet with TLVs. Inaczej Link-State Advertisement.

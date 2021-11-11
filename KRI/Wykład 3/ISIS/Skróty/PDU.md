@@ -1,0 +1,1 @@
+Procotol Data Unit. Inaczej Packet.

@@ -1,0 +1,1 @@
+Subnetwork Point of Attachment. Inaczej Datalink Address

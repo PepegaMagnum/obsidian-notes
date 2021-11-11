@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "93ace388c705c8c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d993d0f6c5bee484",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "KRI/Wykład 3/ISIS/Skróty/Level 2 IS (Router).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a4b4354cb3129c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e1f0f283b4bae77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e07f1c9ef191a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f8780d67a8d106b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb2543b518c5c1bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "60010b26073fff84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30f0405c4f71d6f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KRI/Wykład 3/ISIS/Skróty/Level 2 IS (Router).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d993d0f6c5bee484",
+  "lastOpenFiles": [
+    "KRI/Wykład 3/ISIS/Skróty/Level 2 IS (Router).md",
+    "KRI/Wykład 3/ISIS/Skróty/Level 1 IS (Router).md",
+    "KRI/Wykład 3/ISIS/Skróty/Level 2 Area.md",
+    "KRI/Wykład 3/ISIS/Skróty/Level 1 Area.md",
+    "KRI/Wykład 3/ISIS/Skróty/LSP with TLVs.md",
+    "KRI/Wykład 3/ISIS/Skróty/IS.md",
+    "KRI/Wykład 3/ISIS/Skróty/Routing Domain.md",
+    "KRI/Wykład 3/ISIS/Skróty/PSPN.md",
+    "KRI/Wykład 3/ISIS/Skróty/CSNP.md",
+    "KRI/Wykład 3/ISIS/Skróty/SNPA.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Partial Sequence Number PDU or Packet. Odpowiednik LSAck or LSR.

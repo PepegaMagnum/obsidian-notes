@@ -1,0 +1,1 @@
+Designated Intermediate System. Odpowiednik Designated Router. BDR nie istnieje. 

@@ -1,0 +1,1 @@
+End System. Inaczej Host w protokole ISIS.

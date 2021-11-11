@@ -1,0 +1,1 @@
+Complete Sequence Number PDU or Packet. Odpowiednik ISIS Data Base Description.

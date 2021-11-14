@@ -1,0 +1,1 @@
+Base Station Subsystem, zbiór [[LA]]. Składa się z [[BSC]] i paru [[BTS]]

@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
+=======
+            "file": "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
+>>>>>>> c831ec15d6f9119228899416df55c9860bbe97b1
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
+=======
+                "file": "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
+>>>>>>> c831ec15d6f9119228899416df55c9860bbe97b1
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +96,7 @@
   },
   "active": "c6891107cdf97510",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
     "KRI/Wykład 3/ISIS/01. Podstawy IS-IS.md",
     "KRI/Wykład 3/ISIS/Skróty/SNPA.md",
@@ -98,5 +107,17 @@
     "KRI/Wykład 3/ISIS/Skróty/Level 1 Area.md",
     "KRI/Wykład 3/ISIS/Skróty/IS.md",
     "KRI/Wykład 3/ISIS/Skróty/IIH.md"
+=======
+    "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
+    "SMSIR/Wykład 2/Skróty/BSS.md",
+    "SMSIR/Wykład 2/GSM 2G/4. Podstawowe koncepcje.md",
+    "SMSIR/Wykład 2/Skróty/BTS.md",
+    "SMSIR/Wykład 2/Skróty/BSC.md",
+    "SMSIR/Wykład 2/Skróty/MSC.md",
+    "SMSIR/Wykład 2/Skróty/LA.md",
+    "SMSIR/Wykład 2/GSM 2G/3. Generyczne aspekty sieci mobilnych.md",
+    "SMSIR/Wykład 2/GSM 2G/2. Pierwotna Idea GSM.md",
+    "SMSIR/Resources/Pasted image 20211114143253.png"
+>>>>>>> c831ec15d6f9119228899416df55c9860bbe97b1
   ]
 }

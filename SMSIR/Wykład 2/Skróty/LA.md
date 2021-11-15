@@ -1,0 +1,1 @@
+Location Area, obszar przywołania.

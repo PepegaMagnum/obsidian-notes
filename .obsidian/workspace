@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "93ace388c705c8c3",
+    "id": "86322689694cab03",
     "type": "split",
     "children": [
       {
-        "id": "c6891107cdf97510",
+        "id": "6666b8fa74ec0654",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
-=======
-            "file": "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
->>>>>>> c831ec15d6f9119228899416df55c9860bbe97b1
+            "file": "SMSIR/Wykład 2/GSM 2G/10. Podsystem NSS.md",
             "mode": "source"
           }
         }
@@ -22,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a4b4354cb3129c9",
+    "id": "563586f581cc6fe9",
     "type": "split",
     "children": [
       {
-        "id": "7e1f0f283b4bae77",
+        "id": "640f25783032a4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "08e07f1c9ef191a4",
+            "id": "ae832a3007638e84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,7 +34,7 @@
             }
           },
           {
-            "id": "5f8780d67a8d106b",
+            "id": "a44cfb6a0a726187",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,24 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "eb2543b518c5c1bd",
+    "id": "d86c3f4298647f6a",
     "type": "split",
     "children": [
       {
-        "id": "60010b26073fff84",
+        "id": "24d844cbc8360dca",
         "type": "tabs",
         "children": [
           {
-            "id": "30f0405c4f71d6f7",
+            "id": "a5d34a99c548910d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
-=======
-                "file": "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
->>>>>>> c831ec15d6f9119228899416df55c9860bbe97b1
+                "file": "SMSIR/Wykład 2/GSM 2G/10. Podsystem NSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,30 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6891107cdf97510",
+  "active": "6666b8fa74ec0654",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
-    "KRI/Wykład 3/ISIS/01. Podstawy IS-IS.md",
-    "KRI/Wykład 3/ISIS/Skróty/SNPA.md",
-    "KRI/Wykład 3/ISIS/Skróty/PDU.md",
-    "KRI/Wykład 3/ISIS/Skróty/LSP with TLVs.md",
-    "KRI/Wykład 3/ISIS/Skróty/Level 2 IS (Router).md",
-    "KRI/Wykład 3/ISIS/Skróty/Level 2 Area.md",
-    "KRI/Wykład 3/ISIS/Skróty/Level 1 Area.md",
-    "KRI/Wykład 3/ISIS/Skróty/IS.md",
-    "KRI/Wykład 3/ISIS/Skróty/IIH.md"
-=======
-    "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
-    "SMSIR/Wykład 2/Skróty/BSS.md",
-    "SMSIR/Wykład 2/GSM 2G/4. Podstawowe koncepcje.md",
-    "SMSIR/Wykład 2/Skróty/BTS.md",
-    "SMSIR/Wykład 2/Skróty/BSC.md",
+    "SMSIR/Wykład 2/GSM 2G/10. Podsystem NSS.md",
     "SMSIR/Wykład 2/Skróty/MSC.md",
-    "SMSIR/Wykład 2/Skróty/LA.md",
-    "SMSIR/Wykład 2/GSM 2G/3. Generyczne aspekty sieci mobilnych.md",
-    "SMSIR/Wykład 2/GSM 2G/2. Pierwotna Idea GSM.md",
-    "SMSIR/Resources/Pasted image 20211114143253.png"
->>>>>>> c831ec15d6f9119228899416df55c9860bbe97b1
+    "SMSIR/Wykład 2/GSM 2G/9. Widok ogólny - podsystemy.md",
+    "SMSIR/Wykład 2/GSM 2G/8. ISDN i SS7.md",
+    "NSS.md",
+    "SMSIR/Wykład 2/GSM 2G/7. DSS1 i SS7.md",
+    "SMSIR/Wykład 2/GSM 2G/6. Standaryzacja GSM.md",
+    "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
+    "SMSIR/Wykład 2/Skróty/STP.md",
+    "SMSIR/Wykład 2/Skróty/SCP.md"
   ]
 }

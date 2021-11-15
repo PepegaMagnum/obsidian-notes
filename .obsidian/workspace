@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d993d0f6c5bee484",
+        "id": "c6891107cdf97510",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "KRI/Wykład 3/ISIS/Skróty/Level 2 IS (Router).md",
+            "file": "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KRI/Wykład 3/ISIS/Skróty/Level 2 IS (Router).md",
+                "file": "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d993d0f6c5bee484",
+  "active": "c6891107cdf97510",
   "lastOpenFiles": [
+    "KRI/Wykład 3/ISIS/02. Model routingu IS-IS.md",
+    "KRI/Wykład 3/ISIS/01. Podstawy IS-IS.md",
+    "KRI/Wykład 3/ISIS/Skróty/SNPA.md",
+    "KRI/Wykład 3/ISIS/Skróty/PDU.md",
+    "KRI/Wykład 3/ISIS/Skróty/LSP with TLVs.md",
     "KRI/Wykład 3/ISIS/Skróty/Level 2 IS (Router).md",
-    "KRI/Wykład 3/ISIS/Skróty/Level 1 IS (Router).md",
     "KRI/Wykład 3/ISIS/Skróty/Level 2 Area.md",
     "KRI/Wykład 3/ISIS/Skróty/Level 1 Area.md",
-    "KRI/Wykład 3/ISIS/Skróty/LSP with TLVs.md",
     "KRI/Wykład 3/ISIS/Skróty/IS.md",
-    "KRI/Wykład 3/ISIS/Skróty/Routing Domain.md",
-    "KRI/Wykład 3/ISIS/Skróty/PSPN.md",
-    "KRI/Wykład 3/ISIS/Skróty/CSNP.md",
-    "KRI/Wykład 3/ISIS/Skróty/SNPA.md"
+    "KRI/Wykład 3/ISIS/Skróty/IIH.md"
   ]
 }

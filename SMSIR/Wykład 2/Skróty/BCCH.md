@@ -1,0 +1,1 @@
+Broadcast Control Channel - rozsiewczy kanał sterującymi informacjami o sieci, pojedynczej komórki lub komórkami sąsiadującymi. Służy do przesyłu informacji potrzebnymi dla stacji ruchomej do wykrycia sieci i uzyskanie do niej dostępu.

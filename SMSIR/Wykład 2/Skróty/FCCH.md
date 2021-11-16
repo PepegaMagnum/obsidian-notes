@@ -1,0 +1,1 @@
+Frequency Correction Channel - Kanał służący do korekcji częstotliwości. Stacje ruchome wtedy mogą dostrajać się do częstotliwości nośnej

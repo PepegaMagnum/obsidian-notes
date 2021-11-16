@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "86322689694cab03",
+    "id": "aabb12c6d39e4020",
     "type": "split",
     "children": [
       {
-        "id": "6666b8fa74ec0654",
+        "id": "ab66b3b6f92e6479",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SMSIR/Wykład 2/GSM 2G/10. Podsystem NSS.md",
+            "file": "SMSIR/Wykład 2/Skróty/BCCH.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMSIR/Wykład 2/GSM 2G/10. Podsystem NSS.md",
+                "file": "SMSIR/Wykład 2/Skróty/BCCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6666b8fa74ec0654",
+  "active": "ab66b3b6f92e6479",
   "lastOpenFiles": [
-    "SMSIR/Wykład 2/GSM 2G/10. Podsystem NSS.md",
+    "SMSIR/Wykład 2/Skróty/BCCH.md",
+    "SMSIR/Wykład 2/Skróty/FCCH.md",
+    "SMSIR/Wykład 2/Skróty/RR.md",
+    "SMSIR/Wykład 2/Skróty/MS.md",
     "SMSIR/Wykład 2/Skróty/MSC.md",
-    "SMSIR/Wykład 2/GSM 2G/9. Widok ogólny - podsystemy.md",
-    "SMSIR/Wykład 2/GSM 2G/8. ISDN i SS7.md",
-    "NSS.md",
-    "SMSIR/Wykład 2/GSM 2G/7. DSS1 i SS7.md",
-    "SMSIR/Wykład 2/GSM 2G/6. Standaryzacja GSM.md",
+    "SMSIR/Wykład 6/Laboratoria/Ogólna architetkura sieci RAN.md",
+    "SMSIR/Wykład 2/GSM 2G/4. Podstawowe koncepcje.md",
     "SMSIR/Wykład 2/GSM 2G/5. Usługi końcowe.md",
-    "SMSIR/Wykład 2/Skróty/STP.md",
-    "SMSIR/Wykład 2/Skróty/SCP.md"
+    "SMSIR/Wykład 2/Skróty/PSTN.md",
+    "SMSIR/Wykład 2/Skróty/LA.md"
   ]
 }

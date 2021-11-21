@@ -1,0 +1,1 @@
+PRBS 2E41 - 1. Dostajemy ten sygnał od systemu zewnętrznego źródła. 

@@ -1,0 +1,1 @@
+Wariancje WDM są klasyfikowane w zależności jak gęsto upakowane są kanały.

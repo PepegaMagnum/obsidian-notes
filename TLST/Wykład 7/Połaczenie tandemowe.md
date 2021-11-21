@@ -1,0 +1,1 @@
+Informacje o stanie jednego operatora są podawane dla innego operatora. Czyli operator dostaje informacje o obcym operatorze. TCM zawiera te informacje.

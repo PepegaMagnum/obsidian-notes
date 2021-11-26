@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SWUS/Wykład 2/5. Następny etap rozwoju - Sieć świadome przekazywanej treści (ICN).md",
+            "file": "SWUS/Wykład 6/3. IIP.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWUS/Wykład 2/5. Następny etap rozwoju - Sieć świadome przekazywanej treści (ICN).md",
+                "file": "SWUS/Wykład 6/3. IIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6666b8fa74ec0654",
   "lastOpenFiles": [
-    "SWUS/Wykład 2/5. Następny etap rozwoju - Sieć świadome przekazywanej treści (ICN).md",
-    "SWUS/Wykład 2/6. Techniki telekomunikacyjne dla realizacji sieci wielousługowych.md",
-    "SWUS/Wykład 2/7. Sieci wielousługowe.md",
-    "SWUS/Wykład 2/8. Usługi sieciowe (Class of Service).md",
+    "SWUS/Wykład 6/3. IIP.md",
+    "SWUS/Wykład 6/Warstwa internetu i transportowa.md",
+    "SWUS/Wykład 6/1. OSI.md",
+    "SWUS/Wykład 5/1. MANA - Management and service Aware Network Architectures.md",
+    "SWUS/Wykład 3/2. Algorytm monitorowania sieci - Token bucket.md",
+    "SWUS/Wykład 3/1. Mechanizmy sterowania sieci.md",
+    "SWUS/Wykład 2/Best effort.md",
     "SWUS/Wykład 2/10. Best effort i IP QoS.md",
     "SWUS/Wykład 2/9. Wymagania QoS i typy ruchu.md",
-    "SWUS/Wykład 2/Best effort.md",
-    "SWUS/Wykład 2/4. Sieć TCP IP.md",
-    "SWUS/Wykład 1/4. Sieć IP.md",
-    "SWUS/Wykład 2/3. Sieć telefoniczna.md"
+    "SWUS/Wykład 2/8. Usługi sieciowe (Class of Service).md"
   ]
 }

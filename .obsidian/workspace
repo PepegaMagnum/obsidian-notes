@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SWUS/Wykład 6/3. IIP.md",
-            "mode": "preview"
+            "file": "TRAP/Wykład 5/9. Całkowite wewnętrzne odbicie odpowiada za propagację światła w światłowodzie.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWUS/Wykład 6/3. IIP.md",
+                "file": "TRAP/Wykład 5/9. Całkowite wewnętrzne odbicie odpowiada za propagację światła w światłowodzie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6666b8fa74ec0654",
   "lastOpenFiles": [
-    "SWUS/Wykład 6/3. IIP.md",
-    "SWUS/Wykład 6/Warstwa internetu i transportowa.md",
-    "SWUS/Wykład 6/1. OSI.md",
-    "SWUS/Wykład 5/1. MANA - Management and service Aware Network Architectures.md",
-    "SWUS/Wykład 3/2. Algorytm monitorowania sieci - Token bucket.md",
-    "SWUS/Wykład 3/1. Mechanizmy sterowania sieci.md",
-    "SWUS/Wykład 2/Best effort.md",
-    "SWUS/Wykład 2/10. Best effort i IP QoS.md",
-    "SWUS/Wykład 2/9. Wymagania QoS i typy ruchu.md",
-    "SWUS/Wykład 2/8. Usługi sieciowe (Class of Service).md"
+    "TRAP/Wykład 5/9. Całkowite wewnętrzne odbicie odpowiada za propagację światła w światłowodzie.md",
+    "TRAP/Wykład 5/8. Zasada działania światłowodu.md",
+    "TRAP/Wykład 5/7. Przykładowa budowa kabla światłowodowego.md",
+    "TRAP/Wykład 5/6. Jak powstaje światłowód i preforma.md",
+    "TRAP/Wykład 5/5. Budowa światłowodu.md",
+    "TRAP/Wykład 5/4. Obszary zastosowań światłowodów.md",
+    "TRAP/Wykład 5/3. Światłowód.md",
+    "TRAP/Wykład 5/2. Wzrost zapotrzebowania światłowodów.md",
+    "TRAP/Wykład 5/1. Przykładowy światłowodowy system transmisyjny.md",
+    "SWUS/Wykład 6/3. IIP.md"
   ]
 }
